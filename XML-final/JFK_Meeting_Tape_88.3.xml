@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://millercenter.dataformat.com/local/TEI_MC.xsl'?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:pm="http://demo.dataformat.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://millercenter.dataformat.com/local/TEI_MillerCenter.xsd">
+<TEI xmlns:pm="http://demo.dataformat.com/local/pm"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     pm:docDate="1964-05-21"
+     pm:docDesc="JFK Meeting Tape 88.6"
+     pm:entry="10837"
+     pm:link-target-type="text"
+     pm:sortkey="JFK Meeting Tape 88.3"
+     pm:title="Transcripts"
+     pm:url="11111111"
+     pm:workflow-stage="D">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="transcript">
+            <bibl type="metadata">
+               <series>Civil Rights, 1965-69</series>
+               <title>JFK Meeting Tape 88.6</title>
+               <persName>
+                  <forename>John F.</forename>
+                  <surname>Kennedy</surname>
+               </persName>
+               <persName>
+                  <forename>Robert F.</forename>
+                  <surname>Kennedy</surname>
+               </persName>
+               <persName>
+                  <forename>John</forename>
+                  <surname>Macy</surname>
+               </persName>
+               <persName>
+                  <forename>Burke</forename>
+                  <surname>Marshall??</surname>
+               </persName>
+               <persName>
+                  <forename>Lee</forename>
+                  <surname>White??</surname>
+               </persName>
+               <persName>
+                  <forename>Theodore</forename>
+                  <surname>Sorensen</surname>
+               </persName>
+               <placeName>Place Name</placeName>
+               <time subtype="duration">00:00</time>
+               <time subtype="start-time"/>
+               <time subtype="end-time"/>
+               <note type="topic">Civil Rights, 1965-69</note>
+            </bibl>
+            <ab type="opener">The following recording from a Cabinet Meeting on May 21, 1963 offers one of the clearest statements of the Kennedy
+                  administration’s understanding of what happened in Birmingham in
+                  early May 1963. The recorder picked up the voice of Attorney General
+                  Robert F. Kennedy in mid-sentence as he summarized the past three
+                  weeks, including the role of Dr. Martin Luther King Jr., the
+                  demonstrations over desegregating downtown businesses, and the
+                  historic agreement on May 10 between white business leaders and
+                  black activists. He credited his brother for managing the crisis
+                  after two bombs exploded just before midnight on Saturday May 11. As
+                  Attorney General Kennedy reported, violent tactics by state
+                  authorities under the direction of Governor George Wallace almost
+                  turned it into an out-of-control situation. In response, President
+                  Kennedy stationed troops at two nearby military bases, but as the
+                  attorney general explained, the actions and speeches of President
+                  Kennedy and Dr. King on May 12 prevented what might have become a
+                  "real war in Birmingham." They also helped the administration avoid
+                  the white backlash from having to move the troops into the city.
+                  Kennedy's description cast the Birmingham movement essentially as
+                  Martin Luther King's movement and downplayed the robust involvement
+                  of local black leaders and activists in the struggle to desegregate
+                  Birmingham, portraying local black activists as participants drawn
+                  almost unwittingly by King into series of confusing and dangerous
+                  protests.<note type="footnote">[footnote: The John F. Kennedy Library finding aid explains that this recording came from an afternoon meeting of the President's Committee on Equal Opportunity in Housing on May 21. Material on the recording and information from President Kennedy's Daily Diary indicate, however, that the recording was likely from the Cabinet Meeting that morning. In the recording, Robert Kennedy says the following: "But if it's all right, Mr. President, I'd like to have maybe Mr. Macy
+                     make a report to the Cabinet as to what the situation was in Birmingham,
+                     and what it is in some of these other major cities, and what's been
+                     done about it in Birmingham." Kennedy may have meant to say the Committee, but another piece of evidence suggests that it was probably a Cabinet recording.</note>
+                  <note type="footnote">The recording is approximately twenty-five minutes long.</note><note type="footnote"> According to the president's daily diary, the Cabinet met for fifty-five minutes (from 10:15 to 11:10 A.M.), but the Housing Committee met for only ten minutes (from 5:10 P.M. to 5:20 P.M.) After that, the diary has a ten-minute gap before Secretary of Labor Willard Wirtz and Council of Economic Advisers Chair Walter Heller met with President Kennedy for a twenty-minute off-the-record session (from 5:30 P.M. to 5:50 P.M.).</note></ab>
+            <ab type="opener">Attorney General Kennedy
+                  also highlighted the potential for non-violence to disappear. He
+                  praised King and the commitment to non-violent protest, but
+                  explained that part of the difficulty facing the president was that
+                  “the Negro community of Birmingham has probably the toughest group
+                  of Negroes in the country,” and groups of them on the “fringe” could
+                  not keep from bringing out their knives, bricks, and guns. To
+                  address the deeper problems in that city and other southern cities,
+                  he endorsed the need for biracial committees to improve
+                  communication. Most important, though, was the need to address the
+                  “disgraceful situation” of black hiring in federal agencies. Local
+                  segregationists made a good point, he lamented, when they asked
+                  Burke Marshall almost two weeks earlier, “Why should we hire
+                  Negroes? You don't hire Negroes.” </ab>
+            <ab type="opener">During the second half of the meeting, John Macy, Chairman of the U.S. Civil Service
+                  Commission, reported on the federal government's dismal hiring
+                  record in the South. Of 2,000 federal jobs in Birmingham not in the
+                  Post Office or the Veterans Administration, only 15 were held by
+                  black workers. Numbers in other southern cities were similar. Macy
+                  blamed the "poor educational system" and the "cultural atmosphere"
+                  for a low pass rate on the federal service entrance examination and
+                  the reluctance of some federal officials in those cities to hire
+                  black employees. He recommended improving the federal government's
+                  identification and recruitment of talented black workers, removing
+                  problematic white officials, and possibly adjusting job
+                  definitions.
+            </ab>
+            <p>Audio file is
+               at: http://millercenter.org/scripps/archive/presidentialrecordings/kennedy/1963/05_1963</p>
+            <p>JFKL file: 
+               http://www.jfklibrary.org/Asset-Viewer/Archives/JFKPOF-MTG-088-006.aspx 
+               [audio is 25 minutes, 23 seconds.]</p>
+            <p>00:42:09 - 01:06:21 </p>
+            <p>Recording starts after conversation has begun.</p>
+            
+            <sp>
+               <speaker>Robert F. Kennedy:</speaker>
+               <p> --to come out for  accommodation with the Negroes, were the . . . against him <supplied>Martin Luther King Jr.</supplied> coming back, and we were against him coming back. We tried to prevail upon him to wait until [Albert] Boutwell had been
+                        able to take over the administration of the city and put in the reforms that
+                        he indicated that he would do.<note type="footnote">[footnote]</note>
+                        So--but we were not successful. He came back and did not, as I say, did not
+                        have the support of the Negro community. He sought a license to parade, to
+                        put on a demonstration, and he--they--Bull Connor refused. So he went out
+                        and got eight or ten people, and they were all arrested. So the next day he
+                        decided to have another demonstration, and this time because the ten people
+                        had been arrested, 20 people came out. And then they were arrested. And then
+                        when they were arrested, that got a little bit more publicity, although the
+                        papers had arranged between them that they'd never put this on the front
+                        page of the paper. They'd play it down. Television played it up, and it got
+                        around the Negro community, so then he started to get more and more support
+                        as more and more of his people were arrested. Then he got himself arrested
+                        on Good Friday, so that he stayed in jail over Easter Sunday, and then, of
+                        course, got everybody aroused--the Negro community and then he came out. And
+                        then he started having larger and larger demonstrations, and as more and
+                        more people were arrested, the Negro community--the local Negro
+                        community--felt that they couldn't let him do all these things by himself,
+                        that they'd have to support him. So they started to support him. And then
+                        the NAACP, which had been strongly against him going in there and having
+                        these demonstrations, they started to feel that they had to support him
+                        because they were losing everything to him. And so finally he started
+                        getting more and more people to come his way, and then he hit upon the idea
+                        of having the children come out, and that's when the thousands of people
+                        started to gather.</p>
+            
+            <p>He got this <supplied>sic</supplied> large groups of people out Friday or Saturday about two and a half weeks ago.
+               <stage>[whistling in background]</stage> And there was then, of course, with all those children and all those people, there was great danger. The problem at that time was that the white people and the Negro people weren't talking to one another. Then he--and the Negro leadership didn't know what they were demonstrating about. They didn't know whether they were demonstrating to get rid of Bull Connor, or whether they were demonstrating about the stores, or whether they were demonstrating against the city government. Ninety percent of the people who were demonstrating certainly didn't know what they were demonstrating about, and none of the white community knew what they were demonstrating about, and none of the white community would get near the Negro community at that juncture because they felt that they were being disorderly. And so nobody was talking to anybody. And he had all these demonstrations, which were getting larger and larger, so then the President sent Burke Marshall down and--to Birmingham to see if something could be done about getting people together.</p>
+            <p>First, he went to the Negro community to find out what they wanted, and as I say, that was difficult because a lot of them didn't know what they wanted. And finally through the efforts of Martin Luther King [Jr.], found out what they wanted, which was to desegregate the lunch counters, which was to take the signs off the toilets and the drinking fountains, to have an . . . better hiring system in Birmingham in the department stores, and to hire at least one clerk in one of the stores.</p>
+            <p>[45:33] So he went back to the white community, to the department store heads--a majority of whom were branch stores and who had their main offices outside the city--and told them of this. And so they started having meetings, and [Treasury Secretary] Douglas Dillon and some others have called the heads of the big chains. I spoke to some of them and expressed our concern. Burke met with the local people in Birmingham, and finally they said that they'd be willing to do some of these things, but that they would want to wait until something else happened in Birmingham. They wanted to have some other desegregation take place before they took the first step. And what they hit upon was the schools. When the schools were desegregated, they said that they would then do these other things.</p>
+               <p>
+                  [46:19] Well, the earliest the schools would be desegregated was September.
+                  <note type="footnote">[footnote]</note>
+                  So the Negroes were unwilling to wait until that happened, and the department stores said that they were unwilling to take the first step, so the result was--this was into Monday, Tuesday--and then the demonstrations got larger and larger. And then the demonstrations got in the thousands. Of course, they got out of hand. And then Martin Luther King preaches non-violence, and if you're hit, you kneel down and say your prayers and don't hit back, which is all very good. And those who hear him, they follow him exceptionally well, and there is no violence, as far as the Negroes are concerned. 
+               </p>
+               <p>
+                  [46:59] But the Negro community of Birmingham has probably the toughest group of Negroes in the country, and so some of them started to turn out. They've hated the police for a long period of time. They came out with their bricks and their knives. and they stood on the fringe, and they started throwing the bricks and started running through the parks and
+                  <unclear>[unclear-going]</unclear>
+                  into the department stores. And so the situation had gotten completely out of hand. The white community, then, became--it felt--became exercised and concerned as to what they should do, and we felt that if we could get the substantial white citizens who owned the--ran the financial life of Birmingham--behind the department store heads, that perhaps we could get the department store heads to move. So they had a meeting down there and Burke attended it and said that what you're going to have in Birmingham is complete chaos.
+                  <note type="footnote">[footnote]</note>
+                  You would have bloodshed unless something's done. That the Negro demands were quite reasonable and that they should support the department store heads and urge them to make this agreement. 
+               </p>
+               <p>
+                  [48:00] Finally, some of these meetings went to four or five o'clock in the morning, and Burke was the only contact between the whites and the Negroes. And finally brought them together and the white financial, economic leaders agreed to support the department store heads and that they would go down the line and they in . . . also would take steps to improve the lot of the Negro--
+                  <stage>[loud banging noises]</stage>
+                  When that happened, the department store heads said that they would make this agreement. Then we got in touch with Martin Luther King and said that they agreed to make the agreement. He said, "Well, I've had businessmen tell me in all of these that they've made an agreement and they didn't keep their word, so we're going to go on with the demonstration."
+                  <stage>[whistling in the background]</stage>
+                  So we said to him that, "You had the demonstrations to accomplish a certain purpose. You accomplished that purpose for . . . and then you
+                  <unclear>[unclear]</unclear>
+                  the demonstration would not make a great deal of sense." He said, "Well, I got to get people out of jail. The only way to get my people out of jail"--he then had a couple thousand in jail--"is to have demonstrations so that they have so many people in jail and such a crisis in Birmingham that they let everybody out of jail."
+               </p>
+               <p>
+                  [49:10] This really did make a great deal of sense.
+                  <note type="footnote">[footnote--Attorney General Kennedy may have said "didn't make a great deal of sense."</note>
+                  And what . . . if he'd had another day of demonstrations, you would have had great bloodshed in Birmingham, and the governor, who would then start moving into Birmingham, would have taken over the city. So you'd never have anything accomplished.
+               </p>
+               <p>
+                  So we were able to prevail upon him to call off his demonstrations just really in time because I don't think there's any question, by that Wednesday night, the governor would have moved into the city, and you would never--he would have had complete control over it, and you would never have had any of these gains. So they call off their demonstrations, and then you have the Saturday night at 10 [minutes] after 11 [o'clock] you had this one stick of dynamite thrown in Martin Luther King's brother's house, and then 30 minutes later, 11:40, you had eight sticks of dynamite that were thrown at the Gaston Motel where Martin Luther King had stayed.
+                  <note type="footnote">[footnote]</note>
+                  The Negroes gathered, several thousands, when the police came. And the fire department came with their fire hoses. They threw rocks and stones, brought out their knives. It got out of hand.
+               </p>
+               <p>[JFKL, 8:20] The local police, the sheriff's office, and the police department, by 2:00 in the morning, had brought them pretty much under control. Then the governor sent his people in, and his people were game wardens with armbands, and alcohol and tax people with armbands, and tough and mean. They had carbines, and they got out of their cars with clubs and these guns, and the local police asked them to get back, go away, that they had the situation under control, and that they would kill somebody, and they said that's what they were here for. So then they start clubbing people, beating them, and then the situation got completely out of control for the next three hours. And it was finally brought under control about 6:00 Sunday morning.</p>
+               <p>Well, the Negroes then were--felt that they had been betrayed, and so all day Sunday they indicated quite clearly that that night you were going to have a real war in Birmingham. A number of them were armed. They had knives, they had guns, and that they were going after these people with the armbands. And they felt that there was . . . the governor had come in, taken over the city, and that there was no solution as far as they were concerned.</p>
+               <p>
+                  [51:35] The President then made the determination to send the troops into Alabama, that they would be available to be used in Birmingham if it was felt to be necessary, and he also went on television that night just before Martin Luther King came back and to make a speech to his . . . to the Negroes.
+                  <note type="footnote">[footnote] </note>
+                  That changed the whole complexion of the situation, because Martin Luther King then said--told his people to calm down and stay at home, that the federal government was interested and was going to be active in the situation to protect them. The fact that we moved the troops into Alabama calmed the Negro community down so there weren't any incidents, but I don't think there's any question that if that step hadn't been taken that night, that the Negro community would have gotten out of hand. You would have had a tough fight between the governor's people and the Negro community.
+               </p>
+               <p>
+                  [52:23] The . . . We think that the agreement will be kept that was made. And there are problems, such as yesterday the school board suspending the thousand students who participated in the demonstrations.
+                  <note type="footnote">[footnote]</note>
+                  The Negro lawyers are going to bring a lawsuit, which we may or may not enter also, to try to enjoin the school board from suspending the students. That will have to be worked out, but at least it would appear that the agreement that was made will be kept at least at the present time. We are optimistic about it. We're not out of the woods as yet, but I think we feel that we have a good chance of having that kept.
+               </p>
+               <p>[53:09] The lessons that we learned from it are, first, the importance of having some biracial committee in a community. The . . . In each one of these local communities, and in the state, the Negroes and the whites talking to one another so that they can air their grievances. One of the great problems, as far as the Negroes--we found in the last two and a half years--is that they feel that there is no solution for what they want to accomplish, that nobody will talk to them. And community after community, we find that to be so, that they don't have--there's nobody--if the Negroes feel that they have grievances, there's no place for them to go. Then they want to demonstrate, and they can't get a license to demonstrate. And so that they want to walk down the street, and they're not given a license, and therefore they're put in jail. That exercises the other Negroes. They don't have any place to go, they don't have any place to complain, and they can't picket about it because then they're put in jail. So they feel a sense of frustration, and that's what's growing up in the South and really in the northern cities.</p>
+               <p>[54:07; JFKL, 12:30] The second thing that we learned, and which I'd like to take up with you today, is the--when Burke met with these business leaders in Birmingham and talked to them about hiring Negroes, they looked at the government agencies and said, "Why should we hire Negroes? You don't hire Negroes." And so we looked at the situation in Birmingham, and found that it's really a disgraceful situation as far as the government departments are concerned, that we really had done a very poor job.</p>
+               <p>
+                  [54:44] The Veterans Administration [VA] had done well and there were a number of Negroes who were in . . . employed by the post office. But by and large, they were a very low grade. There weren't any Negroes that held any positions that anybody could see them, except perhaps somebody to sweep the floor or something like that. Otherwise, they weren't being used as clerks or out front in positions of importance in any of these offices. And so we felt that something needed to be done to remedy that and to do it quickly. I talked to a number of you about the situation in your own departments,
+                  <stage>[an unclear conversation occurs in the background]</stage>
+                  and then John Macy did a great deal about pulling it all together, and I think we helped the situation down there. But if it's all right, Mr. President, I'd like to have maybe Mr. Macy make a report to the Cabinet as to what the situation was in Birmingham, and what it is in some of these other major cities, and what's been done about it in Birmingham. [55:35]
+               </p>
+            </sp>
+               <sp>
+               <speaker>John Macy:</speaker>
+               <p> [JFKL, 13:40] Thank you. Mr. President, the facts
+                        that we've <unclear>[unclear]</unclear> in Birmingham were not at
+                        all encouraging, as the Attorney General has indicated. Aside from the VA
+                        and the post office, there were approximately 15 Negroes employed out of a
+                        total employment of 2,000 in Birmingham. <stage>[unclear whispering in the background]</stage> We met with the
+                        agency representatives in Birmingham last week and endeavored to identify
+                        the vacancies that were available in a move to hire as quickly as we
+                        possibly could. I can report that we do have now commitments for 16
+                        positions since last Thursday, eight of them in Social Security, six in
+                        Treasury, one in GSA <supplied>General Services
+                                Administration</supplied>, and one in the post office. This is just a
+                        start. Social Security is particularly helpful. They have indicated that
+                        they have about 130 vacancies that must be filled in their payment center
+                        there by the 15th of July. We worked directly with them. The only other
+                        agency that has come up with any vacancies at all as a result of these
+                        discussions is the Air Force with four. </p>
+                  <p>There is great difficulty in finding qualified Negroes in the Birmingham community. This is a product of the poor educational system, the cultural atmosphere that's existed for a long time. We can't be daunted by this. It's necessary that we join forces, work with the Negro community and with Negro leadership to identify the sources of talent that'll meet our qualification standards. I'd like to suggest a program of six action steps, which I believe would be helpful with respect to Birmingham. </p>
+                  <p>[57:17] First, I think it's necessary to reemphasize with our federal representatives in that city that we really mean business. That we can no longer say that because the community doesn't support this kind of equal opportunity, that we're not going to have it in the federal service. Frankly, we've found less than a sense of urgency on the part of the federal representatives when we met with them down there, and anything that can be done from the top down to the local representatives needs to be done. We may even need to change some of our local representatives in that community and others. </p>
+                  <p>[58:05] Second, there's need to urge the agency representatives to identify present and prospective vacancies. There's an amazing lack of awareness of any possible vacancies. This was part of our difficulty in trying to determine just what our objectives would be.</p>
+                  <p>[58:24] Third, we need the assistance of the agencies in recruiting. Generally, the feeling is that this is the Civil Service Commission's job, and that's proper, but I think the entire federal community needs to join in publicity, needs to join in emphasizing the good faith of the federal government at the local level in doing something about it.</p>
+                  <p>[58:40] Fourth, I think that in some of the agencies where there are jobs, it may be possible to do a bit of job engineering to change some of the qualification standards so that there will be more doors open to Negroes than has been traditionally the case.</p>
+                  <p>[58:58] Fifth, I think that we could engage in some strategic placement, in view of the fact that there are so few Negroes in these agencies. By that I mean positions that have some visibility in the community, positions that will be judged as leadership models in making it possible for Negroes to be placed.</p>
+                  <p>
+                     [59:26] And sixth, we need to screen in the agencies where there are Negroes to find what talent exists. We found in Birmingham, for example, that there are 50 postal employees--Negroes--who have college degrees. Now, the
+                     <emph>bona fides</emph>
+                     of those college degrees may be under question, but this is something that we need to look at. This would constitute a resource for other agencies to draw upon for a higher level of jobs requiring a college degree or that level of educational experience.
+                  </p>
+                  <p>So that these are . . . These, it seems to me, are concrete steps we can take in Birmingham. Now, I feel, as I've indicated to the Attorney General, that rather than wait for these other communities to flare up and then react, that we ought to move in and analyze the employment situation in each one. We started doing that yesterday, and we have the first facts. I won't take your time to go into them, but let me say that in Montgomery, Nashville, Memphis, Albany (Georgia), Jackson, Raleigh, and Greensboro, where we ran checks yesterday, the situation isn't any better than it is in Birmingham. And again, it's the VA and the post office that have the bulk of the Negroes that are employed, and the percentage of Negroes in total employment is very low.</p>
+               </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Could you give just some examples because I
+                        think that that's--this is very important to be aware of this because we
+                        have an impossible situation if we try to get these people to do
+                        anything--</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Well, for example, in Nashville in Treasury, there are 405
+                        employees, 4 Negroes. In Nashville. And the--only one of their four Negroes
+                        is over GS-5; he is GS-5. The Labor Department has 64 employees in
+                        Nashville, and not a single Negro. FAA has 81 in Nashville and not a single
+                        Negro. Agriculture, with eight different activities, has 249 employees in
+                        Nashville and 2 Negroes. Commerce has 50 and no Negroes. HEW has 61 and 1
+                        Negro. The Army has 255 and 5 Negroes. VA has 998 and 199 Negroes. So--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> What about Jackson, Mississippi?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Jackson, Mississippi: HEW has 46 employees, no Negroes. Treasury has 192 employees and 2 Negroes. Post office has 456 and 23
+                        Negroes. The Army at the Waterways Experiment Station has 162 employees and
+                        53 Negroes. VA has two installations there. The center has 194 employees and
+                        no Negroes; the hospital has 680 and 190 Negroes. Housing--I guess this is
+                        HFA <supplied>Housing and Home Finance Administration</supplied>--has 64 employees and no Negroes. Speaking of
+                        H--of FHA <supplied>Federal Housing Administration</supplied>, it's interesting to note that FHA is housed in
+                        Birmingham in the city hall in the floor above Bull Connor.<note type="footnote">[footnote] </note> Seems to me we could move out of
+                        there with some benefit. Agriculture in Jackson has 314 employees and 5 Negroes. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Let me ask you, when the hiring is done, it's done completely by competitive examination?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> That is correct. The hiring is done--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> So in other words, Negroes obviously in
+                        Jackson can't compete with the whites. How are we going to get that figure
+                        improved, even with goodwill?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> I think we have to examine all of the jobs that we have,
+                        have a far more affirmative recruiting campaign in the Negro schools, work
+                        with the schools to see if we can't build up the qualifications of those
+                        that have graduated. [01:03:13] I visited Jackson State College three weeks
+                        ago and learned that the students there had not taken the federal service
+                        entrance examination--</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker</speaker>
+               <p>: No, that's right--</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> --not because they weren't interested, but they didn't
+                        want to go to the post office to take the examination. So we're arranging to
+                        have the examination conducted there in--on the campus.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker</speaker>
+               <p>: Where was that?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> --on the campus.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Mr. President, I wanted to tell you. Now,
+                        I've put on my jacket . . . [unclear] on a consulting basis many months ago
+                        the eminent dean of one of the Negro schools in the South. We had an
+                        organized recruiting campaign trying to get the Negroes to apply for jobs,
+                        who . . . professionals [unclear] well within a department. Very frankly,
+                        they haven't. They don't want to, and they think if they do take one, they
+                        won't get the job. If they do get the job, they'll be made to feel miserable
+                        because of the relationship, and it's just . . . This is something
+                        [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> This doesn't mean there are--These are the
+                        best jobs for Negroes, so-- </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker [same as previous]:</speaker>
+               <p> So we've got to just go
+                        out and get them and convince them that we're in good faith [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> In the South, where else can a Negro get this
+                        kind of money so that even [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker [same as previous]:</speaker>
+               <p> Oh-- </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> --can get just a GS-5. Is that . . . Is that
+                        . . . can get them to 4,000, might it?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Yeah, 6--5,000, <unclear>[unclear]--[JFKL,
+                                22:30]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> What?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Five thousand.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Five thousand? We can't get that to him
+                        anyplace else. They ought to be flocking into the government.</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> [01:04:27] Well, actually, Mr. President, in the seven
+                        Southeastern states this year, this fiscal year, we've had 2,100 Negroes
+                        take the federal service entrance examination. Eighty-six passed out of
+                        2,100.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Eighty-six?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Yeah. And 28 of the 86 immediately filed to transfer their
+                        eligibility to Washington, D.C. or somewhere in the North. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> How many? <unclear>[Unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Twenty-eight of the 86 immediately requested transfer of
+                        eligibility to somewhere else, mostly to Washington. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, there you are--</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> So, we have 56 that are left in those six states that have
+                        passed that level of examination. Those are the college graduates. So that
+                        it isn't an absence of candidates. It's again the quality of education. Now,
+                        we have to keep working to attract better students--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> What percentage? How does that percentage
+                        compare to what the white? The white . . . how many?--</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> The white . . . The whites in the South would pass on an
+                        average of about 26 percent in those states. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Twenty-six percent [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> See, the Negroes here are down around one--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [Unclear] five hundred . . . said eighty-six
+                                <unclear>[unclear] . . . </unclear>know that the whites
+                        who take this examination are at the lower level of the whites.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Oh, they're far and away the lower
+                        level.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> So therefore these are probably the upper
+                        level of the Negroes.</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> The New England percentage, in the same examination,
+                        passing is almost 50 percent. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: </speaker>
+               <p>Is it? </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker :</speaker>
+               <p> And it was 1 to 2 percent Negro passages?
+                        [JFKL, 24:00] </p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Yeah. </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> This is six Southeastern states?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> These are the seven Southeastern states. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, that indicates that in addition to
+                        getting everybody thinking about it, how are we going to handle the civil
+                        service part of it?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Well, I think we've got to provide some special authorities, which will permit us to actually go out and select Negroes.
+                        That's what we're prep--That's what we're doing in Birmingham today. Because
+                        they're <unclear>[unclear]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> How . . . How do we get around the examination?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> Well, these would be to fill positions where we do not
+                        have examinations at the moment. But then we'll have to establish new
+                        examinations, which will give the Negroes a better break at the level of
+                        their capability. </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> [JFKL, 25:47; actually has a Arthur Schlesinger ring to voice.] Can you do anything for a fellow who's already
+                        in the post office as a janitor, but has a college degree, to put him into
+                                <stage>[someone in the room says "yes."]
+                        </stage>some other agency without a brand new exam?</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> We can to some jobs, and that's why we're examining these
+                        college graduates now. We're screening here <unclear>[unclear]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker</speaker>
+               <p>: That's a valuable--</p>
+            </sp>
+            <sp>
+               <speaker>Macy:</speaker>
+               <p> This is a--</p>
+            </sp>
+            <stage>Tape cuts off.</stage>
+           
+         </div>
+      </body>
+   </text>
+</TEI>
+</teiCorpus>

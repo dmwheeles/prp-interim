@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://millercenter.dataformat.com/local/TEI_MC.xsl'?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:pm="http://demo.dataformat.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://millercenter.dataformat.com/local/TEI_MillerCenter.xsd">
+<TEI xmlns:pm="http://demo.dataformat.com/local/pm"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     pm:docDate="1963-05-25"
+     pm:docDesc="JFK Meeting Tape 89.2"
+     pm:entry="11254"
+     pm:link-target-type="text"
+     pm:sortkey="JFK Meeting Tape 89.2"
+     pm:title="Transcripts"
+     pm:url="1111111"
+     pm:workflow-stage="D">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="transcript">
+            <bibl type="metadata">
+               <title>JFK Meeting Tape 89.2</title>
+               <persName type="participant">
+                  <forename>John</forename>
+                  <surname>Kennedy</surname>
+               </persName>
+               <persName type="participant">
+                  <forename> Robert</forename>
+                  <surname>McNamara</surname>
+               </persName>
+               <persName type="participant">
+                  <forename> McGeorge</forename>
+                  <surname>Bundy</surname>
+               </persName>
+               <time subtype="start-time">00:00</time>
+               <time subtype="end-time">00:00</time>
+               <time subtype="duration">00:00</time>
+               <placeName> Unspecified</placeName>
+               <note type="topic"/>
+            </bibl>
+            <ab type="opener">President Kennedy interrupted a meeting about
+                  West Germany's difficulties in buying U.S. military supplies to take a call
+                  about civil rights matters from his brother, Robert F. Kennedy. Attorney
+                  General Kennedy reported on a now-famous meeting he held the day before, on
+                  May 24, with several high-profile African Americans. James Baldwin, the
+                  celebrated writer who had recently published <emph>The Fire Next Time</emph>
+                  about the frustrated state of black life in America, had arranged for a
+                  group of black scholars, activists, writers, and entertainers to meet the
+                  attorney general at a Kennedy residence near Central Park in New York City.
+                  Among the notable figures in attendance were social scientist Kenneth Clark,
+                  Martin Luther King Jr.'s attorney Clarence Jones, musician/performer Harry
+                  Belafonte, actress/performer Lena Horne, and the writer Lorraine Hansberry. </ab>
+               
+            <ab type="opener">One of the least-recognizable figures in the room, however, stole the
+                  show. Jerome Smith, a New Orleans activist with the Congress of Racial
+                  Equality (CORE), opened the session by telling Kennedy that he was
+                  "nauseated by the necessity of being in that room" and having to explain
+                  conditions of America's cities to the attorney general. According to
+                  Baldwin, "Bobby took it personally and turned away from him," infuriating
+                  the others. Lorraine Hansberry chastised Kennedy, telling him that of all of
+                  the people in that room, Smith was the only one "who should be listened to."
+                  To Lena Horne, "this boy just put it like it was. He communicated the plain,
+                  basic suffering of being a Negro. The primeval memory of everyone in that
+                  room went to work after that." Kenneth Clark said that the session "became
+                  one of the most violent, emotional verbal assaults . . . that I had ever
+                  witnessed then or since." It was "an attack" on Kennedy. Kennedy, in his
+                  view, said they "seemed possessed" and "impossible" to reach. During the
+                  three hour meeting, he became defensive and then quiet, receiving an
+                  unforgettable lesson that left him shocked and shaken.<note type="footnote">[footnote, Arthur M. Schlesinger, Jr., <emph>Robert F. Kennedy and His Times</emph> (New York: Hought0n-Mifflin, 1978), pp. 330-335, quoted material pp. 332 and 333.]</note>
+            </ab>
+               <ab type="opener">Unfortunately, the recorder picked up only President Kennedy's part of this day's conversation with his brother. After it, the
+                  president did tell Secretary of Defense Robert McNamara that Bobby believed
+                  the meeting was a "disaster" and was "the most extreme" exchange that he had
+                  experienced. The transcript below is a rendering of the president's portion
+                  of the call.<note type="footnote">http://www.jfklibrary.org/Asset-Viewer/Archives/JFKPOF-MTG-089-002.aspx</note>
+            </ab>
+            <sp>
+               <speaker>Robert McNamara:</speaker>
+               <p> We're running into some difficulty in balance of payments problems with both Germany and Canada. Germany, of course, isn't very good since we negotiated the agreement--the off-set agreements, but they in turn are running into budget difficulties. I heard this from a number of people; [West Germany Minister of Defense Kai-Uwe] von Hassel told me, and [French Defense Minister Pierre] Messmer also told me. We had long discussions with both of them separately. And, I'm afraid that we're going to have to put increasing pressure on them to ensure that they not only order from us the equipment that adds up to $600-odd million a year, but also pay for it. They're willing to order it now but not to pay, and their payments are beginning to lag. I mention this because I know that--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Mm-hmm.</p>
+            </sp>
+            <sp>
+               <speaker>McNamara:</speaker>
+               <p>--it will be a subject that will be discussed when you're over there, and I mention it also because von Hassel has put some pressure on me to visit Bonn, and I've been resisting it up to the present time, but he asked again that I do so, and I think probably . . . </p>
+            </sp>
+            <stage>[A phone call from Robert Kennedy comes in for President Kennedy. Only the President's side of the conversation was recorded.]</stage>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK. Hello?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Fine. Very good. How was that meeting yesterday?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. <supplied>tapping sound</supplied></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Yeah. Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Right.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Oh, was it? <supplied>tapping continues</supplied></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Mm-hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> But you.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, why is that? How old is he?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>How old--how old is he?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Hmm. <supplied>JFKL, ~2:30</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You personally? <supplied>JFKL, ~3:50</supplied></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>All right.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <supplied>Approximately one minute passed before President Kennedy uttered a verbal acknowledgement.</supplied>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Mmm. <supplied>JFKL, 4:45</supplied></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <supplied>Approximately thirty seconds passed.</supplied>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Right.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied>   </p>
+            </sp>
+            <supplied>Approximately thirty seconds passed.</supplied>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <supplied>Approximately forty-five seconds passed.</supplied>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> How long has this been true?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p><unclear>[Unclear.]</unclear></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Very well.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And they don't think we've done anything? </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That and the <unclear>[unclear]</unclear> and any of this, the fact we're having a fight with <supplied>George</supplied> Wallace--None of that makes it--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Right.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You mean what . . . speech at Nashville?<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> When was that?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> We had the speech in the Nashville . . . said it was right.<note type="footnote">[footnote, reference to Dick Gregory?]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Did you say that?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And what'd they say then?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Did any of you look a little bit--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Hmm . . . How's James Baldwin?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I figured that.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Why wasn't that <unclear>[unclear]</unclear>?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Um-hmm. Um-hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That must have been irrit[ating]--That must--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That must have been annoying, wasn't it?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That student's a son-of-a-bitch--<note type="footnote">[footnote, Presumably, President Kennedy was referring to CORE activist Jerome Smith.] </note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That congressman.<note type="footnote">[footnote, President Kennedy may have said, "That's congress, then."]</note>
+               </p>
+            </sp>
+            <supplied>JFKL, 9:35] [For over two minutes, President Kennedy listens while occasionally offering verbal acknowledgement.</supplied>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [JFKL, 11:50]They don't have any appreciation of our situation in the South or any other--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> The fact that--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> The fact that they're giving themselves the <unclear>[unclear]</unclear> now.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You really had . . . You had a good group up there then.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> How is Lena [Horne]?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> She said?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Of course, I get that--I think there's a lot of this thing that it gets to have a certain shock value so that they compete with each other to who can make the most--because that's a new departure.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, I guess the last--This Birmingham, I guess, really tipped it.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Mm-hmm. OK. <supplied>JFKL, 13:20</supplied></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. Mm-hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You think your meeting did any good?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> They left mad?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> <supplied>Not recorded.</supplied></p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK. <unclear>[Unclear.]</unclear> <stage>[The president hangs up the phone and speaks to McNamara and others]</stage> He thinks it's a disas[ter].</p>
+            </sp>
+            <supplied>There is a skip in the recording.] [JFKL, 14:13</supplied>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p><stage>[To McNamara and others]</stage> Harry Belafonte, Baldwin, Lena Horne, and this young student and two or three others, that they said they were never going to fight for the United States, and that they're sick of the administration, that we haven't done anything. At least we sent troops into Alabama. We're afraid the whites--that whites . . . stab . . . and that--oh, he said the night's event was two hours, disaster. Half of them walked out. Said it was unbelievable, and, he said, of course, some of it's communist business, that they've worked on one of these young students. They're going to get guns. "First, we're going to not . . . We're going to fight violence with violence." He said it was the most extreme he had . . . private conversation that he ever had. I guess the last few months have gotten really, you know--among the intellectuals, among the <unclear>[unclear]</unclear>--
+               </p>
+            </sp>
+            <sp>
+               <speaker>McNamara:</speaker>
+               <p> Yes, yes. It's broken out elsewhere in the country--</p>
+            </sp>
+            <sp>
+               <speaker> President Kennedy: </speaker>
+               <p>In the north-- </p>
+            </sp>
+            <sp>
+               <speaker>McNamara:</speaker>
+               <p> --California. Yes, in the northern areas of California.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>It's bad. <supplied>JFKL, 15:03</supplied></p>
+            </sp>
+            <sp>
+               <speaker>McNamara:</speaker>
+               <p>Detroit is--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Really, the Negros depend on some--</p>
+            </sp>
+            <sp>
+               <speaker>McNamara:</speaker>
+               <p> Stabilizing <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> --and also that they've had some white support. I mean, we've . . . I don't blame them for being frustrated, but they go to an extreme. They really have the worst situation in the United States, which you never had . . .
+               </p>
+            </sp>
+
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Anyway, fine. Where were we?</p>
+            </sp>
+            <sp>
+               <speaker>McNamara:</speaker>
+               <p>What I had started to say is that the Germans are going to be in financial trouble in their expense budgets, and particularly in future years, but this is on the horizon now, and this leads to gold problems for us, and I think-- <supplied>15:34</supplied></p>
+               <stage>[The conversation about U.S.-West German relations continues, but is not transcribed here.]</stage>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
+</teiCorpus>

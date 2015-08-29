@@ -1,0 +1,1720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://millercenter.dataformat.com/local/TEI_MC.xsl'?>
+<teiCorpus  xmlns='http://www.tei-c.org/ns/1.0' xmlns:tei='http://www.tei-c.org/ns/1.0'
+   xmlns:pm='http://demo.dataformat.com/local/pm'
+   xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+   xsi:schemaLocation='http://www.tei-c.org/ns/1.0 http://millercenter.dataformat.com/local/TEI_MillerCenter.xsd'>
+<TEI xmlns:pm="http://demo.dataformat.com/local/pm"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     pm:docDate=" 1963-05-20"
+     pm:docDesc="_"
+     pm:entry="9015"
+     pm:link-target-type="text"
+     pm:sortkey="JFK Meeting Tape 88.2"
+     pm:title="Transcripts"
+     pm:url="_"
+     pm:workflow-stage="D">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="transcript">
+            <bibl type="metadata">
+               <title/>
+               <persName type="participant">
+                  <forename>John</forename>
+                  <surname>F. Kennedy</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Robert</forename>
+                  <surname>F. Kennedy</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Lawrence</forename>
+                  <surname>O'Brien</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Burke</forename>
+                  <surname>Marshall</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Lee</forename>
+                  <surname>C. White</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Theodore</forename>
+                  <surname>Sorensen</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Kenneth</forename>
+                  <surname>O'Donnell?</surname>
+               </persName>
+               <time subtype="start-time">00:00</time>
+               <time subtype="end-time">00:00</time>
+               <time subtype="duration">00:00</time>
+               <placeName> Unspecified</placeName>
+               <note type="topic"/>
+            </bibl>
+            <ab type="opener">Although President Kennedy avoided inserting insert troops to restore order in Birmingham on May 12, the crisis in Alabama still dominated the White House. The police dogs, fire hoses, bombs, and civil disorders there had pushed a reluctant Kennedy administration into taking more aggressive action in support of civil rights legislation. In the meeting transcribed below, based on a White House recording from May 20, President Kennedy and his top civil rights advisors considered their options for a renewed legislative program on civil rights. They did not hold out much hope that their proposals could survive a Congress dominated by southern segregationists. They did agree that any bill had to include provisions outlawing discrimination in public accommodations. That was an easy call according to the president. It was something, he said, “we couldn’t duck.” President Kennedy believed it would be the “big story,” and Assistant Attorney General for Civil Rights Burke Marshall argued that it would offer the most benefits to the most black Americans on a daily basis. Two other provisions got little support. Revival of the FEPC, the Fair Employment Practices Commission, seemed so unlikely to pass that President Kennedy recommended tabling it until the next year (ironically, this day’s meeting also included a long discussion about improving the federal government’s dismal record of hiring black employees in Birmingham.) Title III, the controversial proposal to give the Justice Department extensive authority to prosecute violations of rights, got a hostile response from Attorney General Robert Kennedy and Burke Marshall. They feared it would doom any chance of passage of other civil rights provisions, and if it did pass, would lead to an avalanche of cases at the Department of Justice. It also could potentially lead to an undesirable expansion in federal policing power. President Kennedy thought it was probably more trouble than it was worth, stating bluntly, “I don’t care so much about Title III.”</ab>
+            <ab type="opener">Other parts of the meeting involved ways to manage relationships with four prominent figures: Congressman Adam Clayton Powell, Vice President Lyndon B. Johnson, civil rights leader Martin Luther King Jr., and black comedian Dick Gregory. Congressman Powell chaired the powerful House Committee on Education and Labor and was a champion of what had come to be called the Powell amendment—a rider frequently placed on bills that forbid discrimination in federal institutions or contracts. Vice President Johnson had a prickly relationship with Kennedy advisors, but he had valuable skills for working on Capitol Hill. President Kennedy wanted to make sure they included him on civil rights discussions so that he would be supporting what they were doing instead of “cutting us.” Dr. Martin Luther King Jr. was at the center of Kennedy’s actions on race and civil rights. He, like Lyndon Johnson after he became president in November, would not want to appear closely allied with King. In this day’s discussion, Robert Kennedy asked the president to invite him and other civil rights leaders to the White House to firm up legislative plans, but the president resisted. He preferred that they wait until after sending their civil rights proposals to Congress and had met with a wide range of southern politicians. “The trouble with King,” President Kennedy explained to his brother, “is everybody thinks he's our boy.” Comedian Dick Gregory, in a peculiar twist, contributed the most information to today’s meeting. Attorney General Kennedy had been cultivating him as a source on black leaders and black attitudes. Gregory had recently given dire warnings to Robert Kennedy about the level of frustration in the country, especially after Birmingham. Four days after today's meeting, Kennedy got a full dose of that anger in an intense three-hour meeting with James Baldwin, Lena Horne, Lorraine Hansberry, Kenneth Clark, Harry Belafonte, and others in New York City. [INSERT LINK TO JFK Meeting Tape 89.2] The identified figures in this recording were President Kennedy, Attorney General Robert Kennedy, Assistant Attorney General for Civil Rights Burke Marshall, counsel and speechwriter Theodore Sorensen, chief legislative liaison Lawrence O’Brien, counsel Lee White, and White House aide and Kennedy confidant Kenneth O’Donnell. Tape 88.4, starts at [00:09:31], ends [00:53:07]</ab>
+            <sp>
+               <speaker>Lawrence O’Brien:</speaker>
+               <p> --we can do this in the [unclear], but we won't pass it.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Why not?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Well, I think that it’d break open on the floor under those conditions.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You mean--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> They’d spotlight this whole thing.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You mean every Southerner then would have to vote no? Because you figure that's . . . ?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert F. "Bobby" Kennedy:</speaker>
+               <p> Why don't I go see [unclear—Ken?] Smith, then?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy :</speaker>
+               <p> Yeah, yeah.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah, It's certainly--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> This isn't really a segregation issue, is it?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> No, no.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> They don't put a rider on it. I mean, it's no more segregated than the armed forces.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien?:</speaker>
+               <p> No, but this is the--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Nobody has to go to the camp.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien?:</speaker>
+               <p> It's well understood on the Hill why it's being delayed and what's causing the problem.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I think we’ve only got . . . There' s five Republicans on that committee.[footnote]  The only other thing we could do would be to see if we could get [William] Colmer to stay away.[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> I think that there's still hope on [George] Elliot [Hagan] very frankly.[footnote] You know, because of all that's beyond this, you know, he takes the sort of a position that it means that he's off the team for keeps because other things will ultimately come along. They'll be playing the same games, and he's totally positioned.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> We couldn't get the governor <supplied>Carl Sanders</supplied> on this one, could we? The governor been out against this one?<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah, he's wired Elliott a couple of times.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> On this one?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah. See, the trouble is Elliot's . . .<unclear> [unclear comment in the room]</unclear> I certainly got the impression Saturday talking to him he feels that he's going to have a tough struggle for survival, but he can survive. And perhaps he can. But the road he's leaning toward more and more to survive is just going to [unclear] totally.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, I'll call him any time whenever you want me to.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Well, why don't--I'll try and follow this up--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Good.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> --the next day or two. See what reaction I can get on it.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Well, you think Gregory wasn't too good yesterday.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> [00:11:34] Well, he's not that--he's on our side. He just thinks we're going to have a lot of trouble. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Dick Gregory.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy: </speaker>
+               <p>And says it’s a complete lack of understanding, and he said that the Negroes get mad for no reason at all. And he said they want to fight, and they want to fight with white people. He says it's true in Chicago. He thinks that that's going to be the big problem area. It's going to be the northern cities. They're just antagonistic and they're mad. You might run a picture with a white boy being chased by a Negro with a knife, and they get mad at that because they said that shows the papers are against them; the white people are against them. [Unclear.]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> They took the knife out of his hand, you know, in the .[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Did they? </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy: </speaker>
+               <p>But I think it's worthwhile keeping in with him because the other fellows are unreliable. [pause] They're all getting tough. <unclear>[Unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Negroes?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> They're awful tough to deal with now, and he says you’re going to get—You have an impossible time--You can't have a moderate Negro anymore because they can't be moderate because all their competitors are not moderate. Everybody's going to be more extreme than the other one.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: [JFKL, 3:30]</speaker>
+               <p> Don’t they realize the necessity of maintaining support in the white community? </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I think they think if they get us all, like one of them said, yesterday I read in the paper, "We got them scared now. Let's make them run."[footnote, Adam Clayton Powell statement in 5/19 paper to the effect “We’ve got them scared now, let’s make them run.”]  I think that's what they think. Get the white people to run and got all the--you know, he says he's got the--the Negroes are all mad and are all over the country. He said, "I don't know whether it's going to stay that way." At least that’s the way it looks, he said, the place where it's going to come out’s in the northern cities.</p>
+            </sp>
+            <sp>
+               <speaker>Lee White?:</speaker>
+               <p> Adam Clayton Powell made that statement. They’re—the whites are running scared now. Let’s keep after them.<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O'Brien:</speaker>
+               <p> [00:13:30] Well, I talked to Powell last week, and he said it's very simple. He said, "I'm not going to watch the parade pass me by. I'm going to lead it."</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, he said—Gregory said Powell has got much greater popularity with the Negroes than he ever had before.</p>
+            </sp>
+            <sp>
+               <speaker>O'Brien:</speaker>
+               <p> Yeah, that's right. And he’s the most articulate. [Unclear] demagogue <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> [Speaking over O'Brien] They . . . They’re all mad. For instance, he said that Lyndon Johnson made a speech. They gave him this award Saturday night, and I guess he made a speech and they're all pissed off about that.[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> What'd he say?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I don't know. He just said what the administration's doing, but they said they're all mad at the liberals, the white liberals, because they say things and sit around. And they're mad at [Robert C.] Weaver because--I don't know quite why are they mad at Weaver exactly.[footnote, director of HHFA and later Secretary of HUD]</p>
+            </sp>
+            <sp>
+               <speaker>Burke Marshall:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Said Weaver came out and spoke in Chicago. And here’s a Negro who spoke well, and all of the rest of them are mad at that.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Here’s a Negro that did what?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Negro that did well and a year ago this was their proudest symbol, a fellow who'd gotten up to this position [Director of the Housing and Home Finance Agency] and spoke well and is articulate and all the rest of it and was a symbol of a Negro that could be a success when he came out. But they're mad about that. He said they're just being--that nobody can reason with them anymore. It’s tough to talk to them.<note type="footnote">[footnote RFK's May 24 meeting with Baldwin, et al]</note> He said he was sitting in a bar where the underworld--Negro underworld of Chicago hangs out. Ordinarily if they hear a police car coming down the street, they all run. And a police captain walked in and they told . . .  A couple of them told him to get the hell out. They don't want to see him. He said that's what the riot was in Chicago was about.<note type="footnote">[footnote]</note> It’s because the Negroes are now just antagonistic and mad, and they're going to be mad at everything. Can't talk to them.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Did this start at Birmingham, or was it before Birmingham? </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, he said they talked to [unclear name]. They were out Thursday night after this thing. She said to them, "You know, [unclear], my friends all say the Negro maids and servants are getting antagonistic.” She said, "You don't know how they’re sassing me back in my house." He said, “I feel what you should do . . . Why don’t you fire them?”</p>
+            </sp>
+            <sp>
+               <speaker>O'Brien:</speaker>
+               <p> [00:15:36] Is this Malcolm X going to play the Hill?<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> He says he's not.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen?:</speaker>
+               <p> Jesus, he started having a press conference in the corridor of the House the other day.[footnote] Yeah.  [6:15 time code]</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well, that was Mrs. [Edith] Green had him up. But she . . . And he said that, of course, he--his feeling is that he's nothing. I think he’s got somebody in his organization. He's got people all over that he pays. Like [unclear] he’s got somebody down at the university [unclear]. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Who? Dick Gregory?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall: </speaker>
+               <p>Gregory.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> He's got a real underworld, an underground. He's got somebody--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Is he highly regarded? By the Negroes?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yeah, he's very popular with [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I'll say this: We've got a damn good hand in Nashville [unclear] the Negroes.</p>
+            </sp>
+            <sp>
+               <speaker>Kennedy:</speaker>
+               <p> I know, that's what John Seigenthaler said.[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, I went through there, the Negro housing thing. Geez, they were out, and I got better applause from there than anyplace else in the South.<note type="footnote">[footnote]</note> I'll tell you that. <unclear>[Unclear.]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well, I don't think that they're--he said that they're  . . . You know, they surely haven't left us.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> But . . . </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Just talking about the summer and the possibility [unclear] the race [unclear] . . . the racial problem in St. Louis the other week.[footnote] It started just over some white cops arresting people in a crap[s] game. And--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Turned into a major riot.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yeah. So that's what he was talking about.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> He thinks that you . . . not . . . on the popularity. </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> On the popularity.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Because he says, you know, these things barely . . . You're going to be . . . probably have to use troops at the University of Alabama. And then you’re <unclear>[unclear] be [unclear]</unclear> that they don't like it.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> That's going to vary. But he said just on the problem for trying to deal with this situation around the country. He said that’s where we’ll have difficulty</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [Speaking over Robert Kennedy] So in Birmingham he thinks [unclear], I suppose. The dogs.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> The dogs. And the Negroes he said, you know, just say that the Neg--They're antagonistic and mad, so therefore, they're very difficult to deal with. The second point being that you can't get a reasonable Negro leadership because each one has to--they're competing with one another. Roy Wilkins hates Martin Luther King.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> All right, of course, they say Weaver’s sold out. Any Negro who does well has sold out. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And your thought is there is a good chance it would be decided against the Negroes. I think . . . I must say I said to [George] Wallace . . . I said I don't know why they don't take down these signs. And I said you get a lot of the Negroes who are all waiting on everybody at home. Why shouldn't they be--this idea that they’re not hiring clerks. </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> I think that, Mr. President, that just judging from our conversation with Gregory, that all the Negro leaders realize that and that the Negro mass in the North particularly doesn't see anything except the dogs and hoses. It’s all the white cops. But the leaders, I think that--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [00:19:15] Well, that's the idea of the right to demonstrate. What would you do? Say “an reasonable limitation of the right to demonstrate”?</p>
+            </sp>
+            <sp>
+               <speaker>Theodore Sorensen:</speaker>
+               <p> How about “the difficulties”?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, Mr. President, I think that's awfully tough.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. I don’t think it’s protected—</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> I think that legislation on the whole would get us, if it were passed, get us in more trouble. Then it would get us--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> All of it?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> No, on the right to demonstrate.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I don't think we ought to--I think we ought to--I don't think we ought to touch that one.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> You see, the attorney general--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I wish--what is our feeling about that amendment on the school bill, on impacted areas?[footnote] I like that.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> I do, too. That’s what. . . I thought we ought to discuss that in this context because my impression is that if you get  major civil rights battle going on the floor of the Congress, even though it's a relatively unimportant one, the focus soon shifts to that. You know, it becomes a major civil rights issue. If you’re on the right side--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> You couldn’t select a better one. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> What?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> You couldn’t select a better one.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> No, that’s right.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen: </speaker>
+               <p>You sure couldn’t.  </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien: </speaker>
+               <p>Now, I haven't asked about this, of course. So far I've just stayed mum the last few days—Hugh Carey and some of the others, of course, are most interested in just what position, if any, we're going to take. </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p>Have Kenny [O’Donnell] come in?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> But I think it's . . . this thing is well along.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [00:20:48] Well, the only thing is that I don't want it to kill  education bills. There's no need for a rider on the higher education <supplied>bill] </supplied>because there’s going to . . . every higher education institution’s going to be desegregated by June. You don't really need to a Powell amendment.<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> But it's hard to, when somebody proposes it, who is either a friend or a foe, to say <stage>[unclear comment by President Kennedy]</stage> you oppose it. And--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, you can pass it in the House and then not have it in the Senate. Take away from the Senate on the grounds that it isn't necessary for higher education. It’s sure going to kill secondary education.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> And it pops right out because you get to the point with [unclear] because with what we proposed there. Part of the problem is to support it in one place and try to resist it in another. As many things--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, I think we ought to get that higher education bill up and out of the way before any of the impacted area comes up because if you have a Powell amendment on the impacted area bill, then they're going to say, "Why not have it on the higher education?"</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> It certainly would be a difficult situation now with that amendment. You'd have a unanimous vote in the subcommittee.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> The what?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> The amendment on the impacted areas. You know, so they'll have it.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, in other words, though, we should try to bring that up after the other education bills are out of the way. And then oppose the Powell amendment on the grounds it's not necessary in higher education because it won't be necessary.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, the . . . Of course, that covers private institutions, too, Mr. President. Most of the public higher educational institutions are going to be desegregated. That isn't true of all the private ones. [President Kennedy acknowledges] And the bill includes a [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> So, in other words, if . . . It’s going to be pretty good argument for putting a Powell amendment rider on it?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yeah, it's at least not a complete answer at this point, but--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That means no Southerner then can vote for it, doesn't it?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> First, you can just go along on the assumption that a Powell-type amendment will be introduced all the way along the lines so that isn’t a matter for discussion because this just wouldn’t happen.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [00:22:49; 88.4, 13:25.] I think we might be able to beat it, mightn’t we? </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> In the Senate.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Uh . . . Well, I think if you take the four Negroes that voted against the medical education bill, too—[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I don't know if they can do it again, though.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Well, two of the four have spoken to me about it.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Said they can't do it again.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Well, not necessarily do they have to move the second time it happens, but they both told me not to expect they'll stay firm through this whole proceeding because it's going to add--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, don't you think we ought to try to get that bill up as quickly as possible and get it through once anyway?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> First, the Powell higher education bill in moving that fast was to--our firm position all along is that we would like to see this stuff split off. And our assistance to Powell was to get any other [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah, but I think it's—Well, what they . . . Actually, the argument that was given was that they wanted the Harris bill to come up in the Senate first.<note type="footnote">[footnote] </note> So that—</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I don't think--I never thought that was--I don't think they're going to have any trouble in the Senate with the Harris bill, so I think we can get that--we ought to say we ought to get that higher [education bill]—[Edith] Green bill moving whenever they can, just because I'm afraid the longer we wait--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Well, that's right, and also the Harris bill--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You know if you bring up the Har--If you bring up the higher education bill after the University of Alabama fight in mid-June, it's going to make it tougher, too.[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> [00:23:59] I guess we're back to the same struggle on that bill anyway. NEA [National Education Association] made a statement the other morning.[footnote]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah, but I don’t . . . I wish we could . . . What I think we ought to try to do is get that bill out, and if we could ever get the Senate to pass the identical bill, which, of course, would be very difficult, but the only way, in my opinion. You can get this fight if it goes to conference [committee] again, and it may still get killed.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> Well, that's it. If they wanted . . . If they had just reported out the--your original bill, I think, instead of Mrs. Green’s version, I think that would have been possible.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [JFKL, ~15:00] All right. Well, in any case, let's just put that down to discuss tomorrow morning, this higher education thing. Let's also have the impacted area one come as late as possible, and let's support the Powell amendment on that one. It’s a good chance to stick it to the old bastards.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> We’ve got lawsuits, you know, going back<unclear> [unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. When will they be out? </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> One's in New York—I guess we’ve argued one.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> But this is a much better way to do it because once you--you wouldn't have to then enforce it with the troops. You just say, well, you don't get the dough unless you integrate. And they wouldn’t get the dough. That’d be the . . . the best way <unclear>[unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> will get defeated? The bill itself?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, it'd be fine. It would save us plenty of dough. </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> That's right. That's one matter. --</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> So, you’d just submit <unclear>[unclear]</unclear>. </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> That’s one save.<unclear>[Unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [JFKL, 15:45]</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p>  We'd have to find up there some way of--Kicking this thing around since we've been here.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Some of these places would really be tough.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> Yeah, it'd be a real hardship in some places <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> But I mean, we’d have to just take care of that later.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Keep that [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> This amendment, it's more than the us[ual] old-type Powell amendment. It goes all the way. It says they have to have a desegregation plan by June 30, 1964 and all the rest.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK. Well, you know, I don’t . . . Well, I think the public accommodations law and the schools--what about Title III? What's the feeling about Title III?<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> I think this is--I think we can't swallow Title III. I think it's a matter of forcing law, and [unclear] that's something that just can't be swallowed.[JFKL, 16:35]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Why isn’t it?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall: </speaker>
+               <p>They can't just--And thousands of requests to bring lawsuits--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Oh, I guess she got <supplied>Christian] </supplied>Herter on the phone?</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/Nicholas Katzenbach?:</speaker>
+               <p> Title III is so well known that if you that if you don't send it up [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> Yeah, we're really talking, Burke, not about what's . . . we’re going to be administering. </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien: </speaker>
+               <p>Yeah, that’s right. </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen: </speaker>
+               <p>All we're going to send up to the Hill, it's not going to pass.<stage/>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yeah, well, that's [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> I think what you're talking about is just what <supplied>Hubert] </supplied>Humphrey said last week where he said, "I'm not going to stand by and watch [Jacob] Javits, you know, lead us through--"[footnote] [JFKL, 17:10]</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well, is there any chance of getting any of this by, public accommodations?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> I think public accommodations is stalled.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> It’s hard to determine, Bob.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> That could make a big difference--</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> We probably . . . It would probably, for the Negroes as a whole, would be the most beneficial legislation. Hell, I mean, it would have a personal impact on their daily lives. Title III deals with constitutional rights, including right to demonstrate and that kind of thing. But this business of going in and eating at a lunch counter is that—Louis Martin said the one thing that makes all Negroes, regardless of age, the maddest.<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> I'm sure that's true. But on the other hand, the . . . your enforcement problems would be bigger probably under that than under Title III.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> I don’t think so, Ted.  I don't think so because if you—if they can get away with this in Birmingham, they can get away with it almost everywhere. Because it's . . . It’s like bus stations, you know. It's true we never thought we'd have  terrible problems with bus stations, but it really didn't turn out that way even though it covered almost all the towns.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> I’m just saying on a comparative basis, I think it's easier to desegregate a school than it is a lunch counter.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I don’t know. No comparison </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> What I . . . I don’t think so. Lunch counters have been desegregated a lot of places where there's no school desegregation.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> People that make the decisions are different types of people. They don't have to run for office.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Now, what they’re talking . . . With the schools, they have the difficulty because they're sending children. “We don't mind ourselves, but we hate to have to <unclear>[unclear]</unclear> children <unclear>[unclear]</unclear>.”</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>Marshall: </speaker>
+               <p> all the counters. </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> They can stand the lunch counters; they don’t have to eat there. They can pee before they come to the store <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> There's no question about Louis's belief that this is a top of the list, most significant, symbolic statement.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Well, I'm for it.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> Would it . . . </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Do we have any chance of getting it by if we stay here for eight months?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> I would think that the way this is going, Bob, before we're through [unclear] reach a total impasse that will affect the whole legislative program. I don't think that we're in any position to direct this. I think the problem is that our fellows on the Hill--I think Hubert is the shining example--just they're extremely nervous about this whole picture now, and they--It's like Powell saying, “I’m not going to let the parade go by while old Hubert and the—”</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Phil Hart. [Unclear]—<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> The liberals and Phil Hart, who is hysterical about this whole situation, certainly isn't going to sit there and let the parade go by. They're not going to let Javits and [Kenneth] Keating [unclear] show—<note type="footnote">[footnote]  </note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>[JFKL, 20:05]</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/Katzenbach?:</speaker>
+               <p> Keating's up for reelection. You have to think of that.<note type="footnote">[footnote—RFK would defeat him in 1964]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> And so therefore this whole thing, it's--The judgment of what will exist in the Congress three months from now or two months from now or a month from now [unclear] is hard to make, but I think--The conclusion that I've reached is that we are going to run smack into a straight out brawl that will position the extremes on both sides and probably create an impasse in the Congress.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> But don't--Isn't possible we could get some civil rights legislation by?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Well, under those conditions, I mean, you get into filibuster and who knows what will ultimately happen. But I--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well, it would be helpful if we get that voting bill by; it would be helpful if we get the public accommodations bill by; and it would be helpful if we get the school bill by. And it would be very helpful if we get section . . . Title III by. Because if you think we have troubles now, if we get Title III by, I mean, we just—</p>
+            </sp>
+            <sp>
+               <speaker>[As Marshall speaks, a door opens and closes. Presumably President Kennedy returns to the room.]</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Among other things, that would be all the right to demonstrate. Unless you thread it out of the bill somehow.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy?/Sorensen?:</speaker>
+               <p> No, I agree. I think Title III--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> But, now, tell me a little bit about Title III. Is there some way we could write Title III? Because Title III has a political significance, and if we don't send it up, it's going to—“Why didn’t you send up Title III?” Isn't there some way we can do something with Title III but more subscriptive?  </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, the --</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Title III is the right of the Justice Department to initiate protection for all rights, all constitutional rights?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> You see, that includes the right to demonstrate. It includes the right to go to swimming pools. It includes [George Lincoln] Rockwell's right to demonstrate as well as Martin Luther King’s.<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>[JFKL, 21:40] President Kennedy:</speaker>
+               <p> Yeah, but you wouldn't have to initiate the suit. It would be a matter of judgment for Justice Department, wouldn't it?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, there could be all sorts of--They'd be lining up outside the Department of Justice to get into the Civil Rights Division because  would have a suit. I mean, we'd be--Yeah. We could . . . We'd be the ones that would be doing it.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And you'd have to pay the bills?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> We'd have to pay the bills. And they’d much rather have that. And they would much rather has us do it than they do it. And every time you didn't do it--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I mean, every school district in the country you'd have to initiate a suit--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> And every swimming pool.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> And that . . . maybe in the schools in the north as well as in the South [unclear] corruption.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, now, that [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> [] [Unclear] sort of bullshit.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yeah, and that’s the point.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, if we don’t . . . I mean any school district in the country, you'd have to initiate a suit and then enforce it?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> And then they'd be other people . . . there’d be people coming in saying that their constitutional rights were being infringed, and we'd disagree with them, and then they would be raising holy hell in that community, but--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, now, if we don't, how would we get away with not recommending Title III?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, the main thing on Title III was because of the schools, and I would--my suggestion would be to have a different school bill. And say we've got a school bill.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> Well, hasn't the  emphasis on Title III, though, shifted because of Birmingham to these demonstrations, too. So I think it was both of them in part. Although, your public accommodations <unclear>[unclear]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> The alternative would be to set up Title III, but not get it--</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> [Unclear] the public accommodation goes to the problem that you're demonstrating about.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> We didn’t get [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I said that if we . . . If you had your ideal, it would be very helpful if we get the public accommodations <unclear>[unclear]</unclear>. We would have less trouble if we get that through. And it would be helpful if we get the school bill through. That would be helpful around the country. And the third thing, which would be  helpful, is if we get the voting bill by. Why we’re really making a fight over this—It looks like we're going to have to fight anyways. <stage>[An unidentified speaker seems to say "That's right."]</stage> If we could get those bills by, it would be damn helpful. Good for the Negroes. Relax this thing, and everybody will think we’re doing something and have more confidence in the federal government in addition to giving us weapons that we don't have at the present time, which would be helpful. If we got Title III by, on the other hand, I mean I--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You're not going to get Title III by. [JFKL, 23:45]</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> That would be <unclear>[unclear-awful?]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I don’t see how we can get anything by--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> No. I think that . . . No, I don't either, <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> You can get Title III by as much as you can get <unclear>[unclear].</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> That's right. We’re going to come <unclear>[unclear]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> That can be <unclear>[unclear]. </unclear>We’re not going to have anything by?</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> I think it's possible that as the mood of the country gets uglier and uglier, the Republicans are going to say we can't play this southern Democratic game any more, and they're all going to . . . They'll--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> That's what I think.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> --and they'll join the cloture, and something will get by.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> That's what I think.
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> I don't know when that time's--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, what about if we send up the--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I think the Republicans are going to have<unclear> [unclear]</unclear>. </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> This . . . There’s going to be an awful lot of trouble.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>This summer?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yes, sir.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Why this summer?<unclear> [Unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, <unclear>[unclear]</unclear> get out of school and just the mood.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> But you just look around the country at the present time. I mean there must be a dozen places where they're having  problems today. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, there's no doubt that the demonstra[tions]—the facilities—That’d be movie theaters?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yes, sir.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I think we got to get that one by. I mean, that just doesn't make sense not to have it. Southerner can defend . . .</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> The schools thing is good.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> You see, that would so personally affect so many people. I think that if it'd get by, it would really be a just major achievement.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> The demon[strations]—The . . . ?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Public accommodations.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, what if we send up the public accommodations? Not send up Title III. </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy: </speaker>
+               <p>Look at the schools a little bit. Can't--Why don’t you discuss that a little bit. What we have <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> I don’t see the great problem with not sending up Title III if you're going to go up with <unclear>[unclear]</unclear>—</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Accommodations?</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Now, as it stands, our people take the leadership of the package up there that the<unclear> [unclear]</unclear>. I think we've got the position that the Title III will fall into the background to some extent. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> This<unclear> [unclear--quite a thing?]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> We have something meaningful that our guys are <unclear>[unclear]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> --accommodations--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> All perturbed about Title III. That's the only problem, unless they get--I mean, they’ll get—The whole fight then is on Title III, and then everything else gets lost, and we don't get anything.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> I think we can control that, though. I mean, I would think now, we send up Title III along with these others, then our people--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, it looks like a tougher path, and the Southerners will be much sorer with Title III in. I mean then we’ll have a real--</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> Disturb them, yeah. <unclear>[Unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, the accommodations they may not be so sore at because I don't know how the hell—I don't care if they're sore on that because that's—I mean, we got to . . . we can't be around saying you can't demonstrate and at the same time not having them some . . . have some means of getting a just . . .  justice in the matter. They can't demonstrate, and they can't get a solution. So, I think . . . I think we couldn't duck this one.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified speaker:</speaker>
+               <p> Duck the Title III?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> What?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: I don't care so much about Title III. I don't know, Title III--</speaker>
+               <p> If we duck the Title III, we don’t [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/Kenneth O'Donnell?:</speaker>
+               <p> Title III's significance is more to us than it is to anybody in the country--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> It is. I know. I agree. </p>
+            </sp>
+            <sp>
+               <speaker>Unidentifed speaker/Kenneth O'Donnell?:</speaker>
+               <p> --<unclear>[unclear]</unclear> Title III.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: </speaker>
+               <p>I think it’s . . . The accommodations thing will be a big story. Now, what are we going to do about education?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Now, look at the schools and then maybe --</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I don't know quite what it means. In other words, the federal government will be able to sue if an educational commission advises them that there's no progress being made?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yes.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That's pretty big, isn't it?</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Yes, it is.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> It's going to be pretty tough in Mississippi and those places.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, but you set up—This is—We tried to do it by conciliation and having the . . . </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p>And then you get some suggestions and recommendations on it. <stage>[A clock chimes in the background.]</stage> You don't going into it just . . . It has to be a recommendation by this commission that's set up to try to get it resolved peacefully.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> [JFKL, 27:10] And it doesn’t go nearly as far as the Clark-Celler, which gives a specific deadline by which a plan has to be submitted.<note type="footnote">[footnote] </note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified speaker:</speaker>
+               <p> Celler. </p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> At least it’s come somewhere between zero and the Clark-Celler bill. </p>
+            </sp>
+            <sp>
+               <speaker>President Kenedy:</speaker>
+               <p> Listen, I’d favorably support [unclear] Mississippi housing. You know, you live in a place 35 percent Negro housing. They’re going to--You don't want that school integrated, do you?<note type="footnote">[footnote, JFK similar point in 9/23/63 Birmingham meeting]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> No, they don't. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well . . . </p>
+            </sp>
+            <sp>
+               <speaker>Marshall: Those . . . </speaker>
+               <p>It's awfully tough in the rural counties. Like the Prince Edward [County in Virginia].<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> You would hope that you'd have a good enough commission that would have enough sense. Of course, our last experience with the Civil Rights Commission—</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> --indicate that.  </p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, but that’s a bipartisan, independent commission.
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> This be under the [<unclear>unclear] </unclear>communication?--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Subject to legislation.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> We won't get this by anyway, probably. Huh?</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/O'Donnell?:</speaker>
+               <p> Schools [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> If you get the voting and the public accommodations, it would be damn helpful.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, that's what we should settle that . . . because we . . . [JFKL, 28:10] in the back of our minds and that'd be progress, and then maybe the Southerners would settle for that. They'd be much more inclined to settle for that and [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> You may reach the point where the Southerners wouldn't mind settling for that. I think what you’re pointing out—</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> There in damn tough shape to be against public accommodations, I would say.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah. This round.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: </speaker>
+               <p> Well, they settled for voting because they . . . otherwise, they were going to get Title III, they figure.  So if we send up the school thing with it. That would take the heat off of Title III because this in effect does.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> I think the public accommodations, of course, is directly keyed to Birmingham. I think it--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Our argument ought to be that these people who object to mob actions and unreasonable demonstrations and so on, the problem is that they give no other remedy for them. This will give another remedy in law, and therefore this is the—We could write a pretty good message on that one. It would remove the necessity of these mob actions, which have a demoralizing effect upon the whole community.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> So should we proceed with this?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yep.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I have to testify a week from Wednesday.
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK. Good.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> We have some other steps that we think that might be <unclear>[unclear]</unclear>--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK. Now, what will I do? Send up a message or a letter? I guess you <unclear>[unclear]</unclear> the testimony. I think we--</p>
+            </sp>
+            <sp>
+               <speaker>[Unclear exchange as several people talk at once.]</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: [Unclear]</speaker>
+               <p> be a letter . . . Yeah, letter.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified speaker A [same as Carl Albert-like before, but not Albert]:</speaker>
+               <p> Worth talking to these southerners before --</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Probably would be.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/O'Donnell:</speaker>
+               <p> So you’re going to take Title III out for them [SOMETHING HAPPENED WHEN TYPING HERE THAT TURNED EVERYTHING TO THE COLOR OF THE UNCLEAR TAG]</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> I’d have Mike Mansfield—
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Who will we have talk to the—</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/O'Donnell:</speaker>
+               <p> Recommend them. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Who . . . </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien: [JFKL, 30:05]</speaker>
+               <p> I think that probably what it’ll call for is a selective meeting that Mansfield would handle in his office. The vice president <unclear>[unclear]</unclear>—</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I think what we ought to do . . . In fact, we ought to get the vice president in. <stage>[brief, unclear word from O'Brien] </stage>Get him married into this package.</p>
+            </sp>
+            <sp>
+               <speaker>O'Brien:</speaker>
+               <p> But he can pitch it to them. This is a . . . in a sense a fallback position for them, too.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified speaker:</speaker>
+               <p> They know, though, that he’s got a meeting up there. They're waiting for something because the kind of [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, I think we ought to say that he's--we know, we've got to send them up. Republicans--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Not so extreme, either.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> That’s the point. </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> I could think they’d <unclear>[unclear] rattlesnake at this point</unclear>—</p>
+            </sp>
+            <sp>
+               <speaker>[Unclear exchange]</speaker>
+               <p/>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> No, listen, I agree.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p>get away with something--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p>  We ought to get something for it. That's what I'm trying to envision, Bob. <unclear>[Unclear.]</unclear>
+               </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, you won't get much for this. That school thing they won't like. You won't get much--You won't get much for this. <stage>[chuckles lightly]</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> [Unclear] is pretty extraordinary.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: [JFKL, 30:45] </speaker>
+               <p> Yeah. How will we get the vice president on this so that he's recommending this as a reasonable action and not cutting us. I think we better have a meeting with . . . we better have a conversation with him about this. I think . . .</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Oh, I think you could have this conversation in the morning, but I . . . but my observation is there are meetings up there in which the vice president  participate, which are rare. I've had . . . attended a lot of meetings in Mansfield’s office where he's present but not participating. But his participation under these circumstances would be helpful as hell. No question about it.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p>we ought to get you guys [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Christ, you can't get him in--What he does, Bob, is he sits there [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> It's there in civil rights <unclear>[unclear]. </unclear>I think that's a damn good idea.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Just get really mad and angry and let the vice president [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Just say we're going to put it in up there ourselves and [unclear] these people [unclear]. And I'll say to Lyndon, "Lyndon and [George] Smathers, we've got to do something."<stage>[Someone acknowledges.]</stage> And then about a day or so later, I'll have him in and say this is what we think we ought to do. </p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Just tell him, “We're going to do it. We're going to hang it on anything now, and I'm just telling him the party [unclear].”</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker/O'Donnell?:</speaker>
+               <p> [Unclear] to do it sometimes, too.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. Exactly.</p>
+            </sp>
+            <sp>
+               <speaker>Unidentified Speaker:</speaker>
+               <p> [Unclear] legislation [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Do you want to hear about some of these other things that we think might be <unclear>[unclear]</unclear>?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> First we made it--When Burke went in with these meetings with these businessmen <supplied>in Birmingham</supplied>, one of the major questions they raised was the fact, well, "you tell us to hire clerks and employ . . . increase our Negro employment and look at the federal government here." And we took a look at the federal government <stage>[chuckles] </stage>in Birmingham, and it was just terrible, just awful, except for the Veterans Administration. But I mean there wasn’t . . . was hardly anybody in the whole of the federal government above GS-6 or [GS]-7, clerks and all the way down the line.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> In the Post Office, too?
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well--</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> The Post Office is better </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Better.</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah, <unclear>[unclear]</unclear>?</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> HEW [Health, Education, and Welfare] 1,400 people, and they work for HEW. Twelve <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>Marshall:</speaker>
+               <p> Well, but in the Post Office they had a number of college graduates, Negroes, who were acting as carriers, who--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> I think this is the greatest spot for us the federal government in this area, the Post Office. They’re seen.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, but they have--</p>
+            </sp>
+            <sp>
+               <speaker>O'Brien:</speaker>
+               <p> And these guys.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Burke said they have quite a number of them who are letter carriers, Negro letter carriers who are college graduates. But, in any case, we took a survey, and that--we had a meeting down there--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> That’s a pretty good job for a Negro in the South, though, letter carrier. It is because he gets pretty good pay [unclear] for a southern Negro. But anyway, go ahead.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well, so, we had [John] Macy, and we had all these other people down and then . . . We were going to make some real changes down there. And already they have pretty [unclear] put a lot of people in. The HEW's done a lot. A good number of them that already have done . . . taken some major steps. What we need, what John Macy’s prepared to do, and what the other government agencies are prepared to do is make the same kind of survey around the other southern cities. So I thought we might take that up and have a meeting on Tuesday or Wednesday, the fact that this needs to be done, because everybody has to coordinate, assign somebody that would have that responsibility. These major [unclear] so that we start to hire people.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Uh . . . </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p><unclear>[Unclear]</unclear></p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p>The other thing is that we felt that it might be helpful if you had some of these Southern governors in. If you had Carl Sanders in. Terry Sanford. Maybe [Donald S.] Russell, . . . [C. Farris] Bryant, maybe five or six of them in the beginning.[footnote] Have them for lunch, maybe even [Frank] Clement of Tennessee, and discuss this problem, discuss the fact we have to [unclear]--President Kennedy:[aside] Tell them I'll call them back. Just find out where he is. Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> --that progress in this area has to be made and what they think the situation is, and whether we can start to have more discussions between people and whether they can urge in these local communities that they set up biracial committees so that they can meet to discuss their problems. One of the great difficulties is then the fact that the whites won't meet with Negroes, and if the governor would start giving leadership for this in their states what specifically they felt that they could do and then see what ideas and thoughts they might have. And then, perhaps if that first luncheon is a success, pick out a half dozen or so governors, and then you might do that with some of the other governors and bring them in in groups and perhaps do it in two different groups and discuss this. See what could be done and urge upon them, saying that we anticipate we’re going to have all these problems. The great thing is to accept a biracial committee, which we genuinely want to move on it, and then we think that great progress--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> In each state a biracial committee and then have them--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, and then also do it at the local level,</p>
+            </sp>
+            <sp>
+               <speaker> President Kennedy:</speaker>
+               <p> Yeah.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> [Unclear.] After that, there's thought possibly also of having in the mayors of some of these communities like Montgomery and Birmingham. And have [William] Hartsfield in from Atlanta, where he's done it. Have the fellow in Richmond.[footnote] Get . . . We can pick out 20 to 30 mayors so maybe you talk to them also and say that this should be done at the local level, and Mayor Hartsfield could talk about how it was handled in Atlanta where it’s had some success, and some of the others, Memphis, Tennessee and Nashville, Tennessee, the appointment of their committee. Let them talk about how it was and meet with one another and then say that we've got to have an exchange between the Negroes and the whites. And then just as we've been discussing here, that you can't keep opposing any progress and then telling people that they can't demonstrate because you're going to have an eruption and . . . try to get it started at the local [unclear]. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Well, how many people would we have for the White House conference? </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy: </speaker>
+               <p>Now, we've had . . . we’ve been making a study of it for the last five or six days as to who we would have. We've gone over some names and we're going to meet with [Treasury Secretary] Douglas [Dillon] about some of them today.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> There must be, oh, somewhere between 150 and 200, Mr. President, that just quickly came out of the Commerce Department's list of chains that operate in the South, some of them totally within the South, most of them national chains with outlets in the South, theaters, motels, hotels, restaurants, dime stores with lunch counters, and so forth. The thought was, though, before we let all that mob loose together that we ought to sit down with a few of them to get a feel as to what is possible, what can be achieved, and how to set up such a meeting. I think that ought to be capable of being done this week, once <unclear>[unclear]</unclear>.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> So do you think that's . . . works fine?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah. You could have that meeting or the preliminary meeting?</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> The preliminary meeting first</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> I should think that the—</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> But we'd like to have the other meeting as quickly as possible. We hope by next week.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p>  OK.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Send out telegrams because that’s the . . . one of the advantages of having it right away.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK.</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> Louis Martin. Louis Martin. Excuse me. Louis Martin's suggestion was to not only don't stop there but let's . . . you can in some cases move back to the guys who finance these things. I don’t know if we’ve got those people, yet, but maybe some of those people who make some pretty major [unclear].</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah, the owner . . . the bank, for instance. And for inst[ance], one of the difficulties that we had in Alabama was the Alabama Power,  <stage>[unclear word spoken by Marshall] </stage>a fellow by the name of Green. And that was a wholly owned subsidiary of a company in Georgia. And <supplied>[Governor George] </supplied>Wallace was putting big pressure on them. He said that he'd increase their taxes so they could lower their rates, and he was causing real difficulty. So I called Douglas Dillon. Douglas Dillon called a fellow in Atlanta who was on a committee for the tax division, and this guy was extremely weak, and he put a call . . . a fellow from Atlanta put a call into him, and he said, "I went through the same thing. We had threats, too, but we were going to stand up, and we were going to do this.” And it made a hell of a difference. So we can get to some of these people. Like in Nashville, we got to the owner of the Dinkler Hotel. I talked with the owner of the Dinkler Hotel in Atlanta that one night. [JFKL, 39:45]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Mmm.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> He got them to change in Nashville and in turn got the fellow from Chicago to change his hotel in Nashville, which really broke the back of them. So, I mean, I think these conversations--Do you want to hear some others?</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Yeah, I got conservation group in the Cabinet Room.<note type="footnote">[footnote]</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> And then we think that there's some time this week that you should meet with the Negro leaders, to have in Martin Luther King and have in some of these other people and talk to them about steps that we're trying to take to [unclear] their places.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> I think that we ought to have some of these other meetings before we have any of the King group, otherwise--</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Looks like--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> --the meetings will look like they got me to do it, so I would think they ought to be next week, that they ought to be notified that they're going to see us.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Mm-hmm.</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> But, also, so when you meet with them, you'll have a pretty clear program of what you're going to do.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: [JFKL, 40:40]</speaker>
+               <p> Do. King . . . the trouble with King is everybody thinks he's our boy, anyways. Everything he does, everybody says we stuck him in there. So we ought to have him well surrounded.  I just kind of hate to look like I'm sending for them because then they'll become--</p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> Well, they’ve asked to see—Harry Belafonte sent you a telegram last week.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: [JFKL, 41:10]</speaker>
+               <p> OK. Well, I think we ought to have a good many others. King is so hot these days that, “Looks like Martin’s coming to the White House.” I should have the . . . I’d like to have the . . . some Southern governors or mayors or businessmen in first. And my program should have gone up to the Hill first. </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Well, we can arrange that.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> The other thing, we got a list of all the Alabama businessmen, business leaders, and getting ready for the University of Alabama. And I thought that we might take this up at . . . and give to each member of the Cabinet a copy of that book. Let them go through the list, see what Alabama businessmen he knows or his department has something to do with, with whom he could talk. Have it-- </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> How many of [unclear] government or subcontract or anything. </p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> Yeah. And ask them see what they can do. Make sure that the troops aren't necessary or outside intervention and have this matter resolved peacefully at the University of Alabama. I thought I’d take it out of the public calendar. </p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> OK. </p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> There’s two other topics, Bob, just to make sure we have a <unclear>[unclear]</unclear> because both of them are very important to Birmingham. One of them is employment, which the legislation is impossible, on FEPC. And the other is police and police brutality and so on. Where you can send up legislation so people think you are responding to Birmingham, although once again I don’t know that you can prove it. That's one of the hot things from the Negroes now, thanks to--</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Employment?</p>
+            </sp>
+            <sp>
+               <speaker>Sorensen:</speaker>
+               <p> No, but, well, employment, but also the police and the police dogs and the fire hoses and all that. </p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> I think we’re faced with the political problem, too, of Republican leadership in much of this area. Now, you take the North Carolina poll tax situation. They can’t get it through the legislature at the moment. I’m going to talk to <supplied>[Governor] </supplied>Terry Sanford again today. One of the problems is the Republicans filed it first, [in] the legislature the first day, you see. And we’re . . . you get involved in that [unclear] indication.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> So you need to get the congressional—Yeah, but I mean, yeah, they may have done it first, but it’s a . . . it will be passed through the Democratic Congress is one of the things we’ll point [unclear]--</p>
+            </sp>
+            <sp>
+               <speaker>O’Brien:</speaker>
+               <p> Yeah, but this is a North Carolina problem, see, that we’re not getting any movement out of that legislature.</p>
+            </sp>
+            <sp>
+               <speaker>Robert Kennedy:</speaker>
+               <p> What about the FEPC? [Unclear] maybe we should be asking why we haven’t sent up FEPC legislation.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy: [JFKL, 43:20]</speaker>
+               <p> Well, I don't see anything wrong with the FEPC if you put it in interstate commerce because I mean, God, you have government contracts that cover so much of it. The word FEPC sounds . . . You don’t want to load it too heavily. I think we've probably got to stick with what we've got right now, but I think that--At a later date, I think we ought to do the employment, maybe next year. </p>
+            </sp>
+            <sp>
+               <speaker>White:</speaker>
+               <p> Arthur Goldberg, Mr. President, last year went up and said he thought the principles were fine and the . . . obviously we were . . . this administration was committed to it, but that the President's Committee on Equal Employment Opportunity was making great progress and let's see how that went for a while. You know, they had those few spats in the--</p>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
+</teiCorpus>

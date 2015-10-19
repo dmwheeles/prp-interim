@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://millercenter.dataformat.com/local/TEI_MC.xsl'?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:pm="http://demo.dataformat.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://millercenter.dataformat.com/local/TEI_MillerCenter.xsd">
+<TEI xmlns:pm="http://demo.dataformat.com/local/pm"
+     xmlns:xhtml="http://www.w3.org/1999/xhtml"
+     pm:docDate=" 1963-11-04"
+     pm:docDesc=""
+     pm:entry="18039"
+     pm:link-target-type="text"
+     pm:sortkey="Dictabelt 52.1 A"
+     pm:title="Transcripts"
+     pm:url="11111111"
+     pm:workflow-stage="D">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="transcript">
+            <bibl type="metadata">
+               <title>Dictabelt 52.1 (Excerpt A)</title>
+               <persName type="participant">
+                  <forename>John</forename>
+                  <surname>F. Kennedy</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Caroline</forename>
+                  <surname>Kennedy</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>John</forename>
+                  <surname>F. Kennedy Jr.</surname>
+               </persName>
+               <persName type="participant">
+                  <forename>Evelyn</forename>
+                  <surname>Lincoln?</surname>
+               </persName>
+               <time subtype="start-time">00:00</time>
+               <time subtype="end-time">00:00</time>
+               <time subtype="duration">00:00</time>
+               <placeName> Unspecified</placeName>
+               <note type="topic"/>
+            </bibl>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> One, two, three, four, five. [Long pause.] [aside] No, that locks it.</p>
+            </sp>
+            <sp>
+               <speaker>Evelyn Lincoln?:</speaker>
+               <p> [Unclear.]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [dictating] Monday, November 4, 1963. The--over the weekend the coup in Saigon took place. It culminated three months of conversation about a coup, conversation which divided the government here and in Saigon. Opposed to a coup was General [Maxwell] Taylor, the Attorney General [Robert F. Kennedy], Secretary [Robert N.] McNamara to a somewhat lesser degree, John McCone, partly because of an old hostility to [Henry Cabot] Lodge [Jr.] which causes him to lack confidence in Lodge's judgment, partly as a result of a new hostility because Lodge shifted his [Central Intelligence Agency] station chief; in favor of the coup was State, led by Averell Harriman, George Ball, Roger Hilsman, supported by Mike Forrestal at the White House. [Pauses.]</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> [Unclear.]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> You want to say something? Say something. Hello.</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Hello. [Long pause.] [Unclear.]</p>
+            </sp>
+            <sp>
+               <speaker>President Johnson:</speaker>
+               <p> Say it again.</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> [Unclear.]</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Why do the leaves fall?</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Because it's winter.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> No, autumn.</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Autumn.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And why does the snow come on the ground?</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Because it's winter.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And why do the leaves turn green?</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Because it's winter.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> Spring. Spring.</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Spring.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> And where do we go to the Cape, Hyannisport?</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> Oh, because it's winter.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> It's summer!</p>
+            </sp>
+            <sp>
+               <speaker>John John:</speaker>
+               <p> It's summer.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [Unclear] say [unclear] your horses.</p>
+            </sp>
+            <sp>
+               <speaker>Caroline:</speaker>
+               <p> [Laughs.] [Unclear] your horses.</p>
+            </sp>
+            <sp>
+               <speaker>President Kennedy:</speaker>
+               <p> [dictating] I was shocked by the death of Diem and Nhu. I'd met Diem with Justice [William] Douglas many years ago. He was an extraordinary character. While he became increasingly difficult in the last months, nevertheless over a ten-year period he'd held his country together, maintained its independence under very adverse conditions. The way he was killed made it particularly abhorrent. The question now is whether the generals can stay together and build a stable government or whether Saigon will begin--will turn on--public opinion in Saigon, the intellectuals, students et cetera, will turn on this government as repressive and undemocratic in the not too distant future.</p>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
+</teiCorpus>

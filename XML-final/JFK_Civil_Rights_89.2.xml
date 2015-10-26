@@ -12,7 +12,7 @@
      pm:url="1111111"
      pm:workflow-stage="D">
    <teiHeader>
-      <fileDesc>
+   <fileDesc>
          <titleStmt>
             <title/>
          </titleStmt>
@@ -28,7 +28,7 @@
       <body>
          <div type="transcript">
             <bibl type="metadata">
-               <title>JFK Meeting Tape 89.2</title>
+         <title>JFK Meeting Tape 89.2</title>
                <persName type="participant">
                   <forename>John</forename>
                   <surname>Kennedy</surname>
@@ -45,7 +45,7 @@
                <time subtype="end-time">00:00</time>
                <time subtype="duration">00:00</time>
                <placeName> Unspecified</placeName>
-               <note type="topic"/>
+               <note type="topic"/> 
             </bibl>
             <ab type="opener">President Kennedy interrupted a meeting about
                   West Germany's difficulties in buying U.S. military supplies to take a call
